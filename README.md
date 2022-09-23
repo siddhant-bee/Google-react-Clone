@@ -1,6 +1,6 @@
 # Google Clone With React ( Hooks + Context API ) and Google Custom Search JSON API ( Programmable Search Engine )
 
-#### **Live Project: https://clone-9aeda.web.app/**
+#### 
 <br />
 
 ## Snapshot
